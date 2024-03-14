@@ -10,7 +10,7 @@
 }
 
 body{
-    background-color: var(--rosa);
+    background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Kode Mono', sans-serif;
 }
