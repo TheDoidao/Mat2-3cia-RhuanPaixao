@@ -15,7 +15,7 @@ body{
     font-family: 'Kode Mono', sans-serif;
 }
 
-conteudo-principal{
+.conteudo-principal{
     display: flex;
     flex-direction: column;
     justify-content: center;
